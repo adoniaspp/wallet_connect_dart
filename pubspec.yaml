@@ -1,0 +1,19 @@
+name: wallet_connect_dart
+description: A starting point for Dart libraries or applications.
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  path: ^1.7.0
+  web_socket_channel: ^1.2.0
+  uuid: 3.0.0-nullsafety.1
+  convert: ^3.0.0
+  cryptography: ^2.0.1
+  hex: ^0.2.0
+
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.4
